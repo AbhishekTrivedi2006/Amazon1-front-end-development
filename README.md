@@ -1,4 +1,4 @@
-# Amazon1-front-end-development
+# Amazon1-front-end-development (Home page).
 my first repository in  github.
 
 <br>
